@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "meshedit.exe",
+      "name": "meshedit.exe",
+      "args": [
+        "C:\\Users\\nicod\\Documents\\Academics\\Semester8\\CS184\\p2-meshedit-sp20-NicoDeshler\\dae\\bean.dae"
+      ]
+    }
+  ]
+}
